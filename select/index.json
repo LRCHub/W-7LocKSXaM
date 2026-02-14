@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "your song",
+  "base_artist": "SUPER BEAVER",
+  "createdAt": "2026-02-14T08:53:31.393894Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Your Song",
+      "artist": "Groove Armada",
+      "has_synced": true,
+      "path": "select/01_Your_Song_Groove_Armada.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Your Song (Tim \"Love\" Lee's Semi Bearded Remix)",
+      "artist": "Groove Armada",
+      "has_synced": false,
+      "path": "select/02_Your_Song_(Tim__Love__Lee's_Semi_Bearded_Remix)_Groove_Armada.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Your Song (Tim 'Love' Lee's Semi-bearded remix)",
+      "artist": "Groove Armada",
+      "has_synced": false,
+      "path": "select/03_Your_Song_(Tim_'Love'_Lee's_Semi-bearded_remix)_Groove_Armada.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Your Song",
+      "artist": "The Cooltrane Quartet",
+      "has_synced": false,
+      "path": "select/04_Your_Song_The_Cooltrane_Quartet.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Your Song",
+      "artist": "Cooltrane Quartet, The",
+      "has_synced": false,
+      "path": "select/05_Your_Song_Cooltrane_Quartet,_The.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "(Love Me Like Music) I'll Be Your Song",
+      "artist": "Heart",
+      "has_synced": false,
+      "path": "select/06_(Love_Me_Like_Music)_I'll_Be_Your_Song_Heart.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Your Song",
+      "artist": "Elton John",
+      "has_synced": true,
+      "path": "select/07_Your_Song_Elton_John.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Your Song",
+      "artist": "Elton John",
+      "has_synced": true,
+      "path": "select/08_Your_Song_Elton_John.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Playing Your Song",
+      "artist": "Hole",
+      "has_synced": true,
+      "path": "select/09_Playing_Your_Song_Hole.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Playing Your Song (Album Version)",
+      "artist": "Hole",
+      "has_synced": false,
+      "path": "select/10_Playing_Your_Song_(Album_Version)_Hole.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Still Your Song",
+      "artist": "Goo Goo Dolls",
+      "has_synced": true,
+      "path": "select/11_Still_Your_Song_Goo_Goo_Dolls.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Still Your Song",
+      "artist": "The Goo Goo Dolls",
+      "has_synced": true,
+      "path": "select/12_Still_Your_Song_The_Goo_Goo_Dolls.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Still Your Song",
+      "artist": "The Goo Goo Dolls",
+      "has_synced": true,
+      "path": "select/13_Still_Your_Song_The_Goo_Goo_Dolls.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Your Song - Bonus Track",
+      "artist": "Ellie Goulding",
+      "has_synced": true,
+      "path": "select/14_Your_Song_-_Bonus_Track_Ellie_Goulding.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Your Song",
+      "artist": "Rita Ora",
+      "has_synced": true,
+      "path": "select/15_Your_Song_Rita_Ora.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Your Song",
+      "artist": "Rita Ora",
+      "has_synced": true,
+      "path": "select/16_Your_Song_Rita_Ora.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Your Song",
+      "artist": "Ewan McGregor and Alessandro Safina",
+      "has_synced": false,
+      "path": "select/17_Your_Song_Ewan_McGregor_and_Alessandro_Safina.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Your Song",
+      "artist": "Aaron Tveit feat. Karen Olivo & Original Broadway Cast of Moulin Rouge! The Musical",
+      "has_synced": true,
+      "path": "select/18_Your_Song_Aaron_Tveit_feat._Karen_Olivo_&_Original_Broadway_Cast_of_Moulin_Rouge!_The_Musi.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Your Song",
+      "artist": "Aaron Tveit & Karen Olivo",
+      "has_synced": true,
+      "path": "select/19_Your_Song_Aaron_Tveit_&_Karen_Olivo.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "your song",
+      "artist": "SUPER BEAVER",
+      "has_synced": false,
+      "path": "select/pl_01_your_song_SUPER_BEAVER.txt"
+    }
+  ]
+}
